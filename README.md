@@ -1,6 +1,7 @@
 ### Pipeline CI/CD com Travis CI deployando a Aplicação no Heroku e no App Engine do GCP.
 
 ###IaaC com Vagrant e Ansible para ambiente de desenvolvimento.
+
 ###IaaC com Procfile e Terraform para ambientes de produção.
 
 ###Toda IaaC é versionada no repositório e possue uma Pipeline de entrega contínua utilizando Terraform Cloud.
