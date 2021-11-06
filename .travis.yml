@@ -24,8 +24,8 @@ deploy:
     branch: main  
 
 deploy:
-    provider: gae
-    keyfile: ../lab-devops-cloud-arthur-9060070a55c3.json
-    project: lab-devops-cloud-arthur
-    on:
-      branch: main
+  provider: gae
+  keyfile: ../lab-devops-cloud-arthur-9060070a55c3.json
+  project: lab-devops-cloud-arthur
+  on:
+    branch: main
